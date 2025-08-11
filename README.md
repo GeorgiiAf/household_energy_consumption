@@ -14,7 +14,6 @@ The dataset represents simulated **household energy consumption** over a short p
 - Peak hour energy usage
 
 [link to dataset](https://www.kaggle.com/datasets/samxsam/household-energy-consumption/data)**
-<iframe title="household_energy_simple" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWIzMGM0YzEtZjM0NS00NmQ0LTgyZjctM2I5ZjdjYjkyNzhjIiwidCI6IjRkMWE2MWQ3LWI2YTUtNGY2NC04Nzg3LWYwNzRmODcwMTNlZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
 
 ---
 
@@ -31,5 +30,6 @@ The goal of this exercise was to:
 1. Download the `.pbix` file from this repository.
 2. Open it in **[Power BI Desktop](https://powerbi.microsoft.com/desktop/)**.
 3. Explore the visuals and filters.
-
+You can view the interactive dashboard here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWIzMGM0YzEtZjM0NS00NmQ0LTgyZjctM2I5ZjdjYjkyNzhjIiwidCI6IjRkMWE2MWQ3LWI2YTUtNGY2NC04Nzg3LWYwNzRmODcwMTNlZSIsImMiOjh9
+)**
 ---
